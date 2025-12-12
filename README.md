@@ -13,3 +13,4 @@ Method overloading & behavior simulation
 Interacting objects (Snake and Food)
 
 The App class serves as the entry point and demonstrates how the Snake behaves when various methods are called.
+<img width="581" height="641" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/b431ce0c-dfb5-420b-8661-3286f1638ea8" />
